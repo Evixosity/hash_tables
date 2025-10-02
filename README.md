@@ -1,2 +1,3 @@
 # hash_tables
-qwertyuiopasdfghjklzxcvbnm
+
+This is class thingy majig i guess...
